@@ -20,15 +20,39 @@ Two Ends of this experience:
 
 1. Grab the flashlight to obtain a minimal light source to find the switch for emergency electricity power.
 
+Flashlight            |  Button for light
+:-------------------------:|:-------------------------:
+![](Screenshots/Untitled.png)  |  ![](Screenshots/Untitled-2.png)
+
 2. Press the button to switch on the emergency electricity power. Lights turn on. The computer shows images and voices warning about the abnormal activities of the subject mouse.
+
+Button            |  Alert System
+:-------------------------:|:-------------------------:
+![](Screenshots/Untitled-3.png)  |  ![](Screenshots/Untitled-4.png)
 
 3. Grab the note to review lab details.
 
+Note            |  Grab Note
+:-------------------------:|:-------------------------:
+![](Screenshots/Untitled-5.png)  |  ![](Screenshots/Untitled-6.png)
+
 4. Pull the lever to open the gate and see the giant mouse.
+
+Gate Controller            |  Gate Controller Pulled
+:-------------------------:|:-------------------------:
+![](Screenshots/Untitled-7.png)  |  ![](Screenshots/Untitled-8.png)
 
 5. Grab the gun to be careful.
 
+Gun            |  Grabbing Gun
+:-------------------------:|:-------------------------:
+![](Screenshots/Untitled-9.png)  |  ![](Screenshots/Untitled-10.png)
+
 6. Use the gun to shoot the mouse and survived / Get killed by the mouse
+
+Survive           |  Die
+:-------------------------:|:-------------------------:
+![](Screenshots/Untitled-11.png)  |  ![](Screenshots/Untitled-12.png)
 
 ### Reflection：
 
