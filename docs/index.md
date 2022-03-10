@@ -1,5 +1,3 @@
-# The Mad Mouse
-
 ## Documentation:
 
 ### Screen Recording
