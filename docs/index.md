@@ -1,4 +1,4 @@
-# # The Mad Mouse
+# The Mad Mouse
 
 ## Documentation:
 
