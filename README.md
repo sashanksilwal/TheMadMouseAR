@@ -1,5 +1,5 @@
 # TheMadMouseAR
-
+By Lishan Qin & Sashank Silwal
 
 ## Installation
 
